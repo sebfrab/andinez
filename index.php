@@ -1,8 +1,9 @@
 <html>
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="es" />
         <link rel="shortcut Icon" href="./images/iconos/favicon.ico"/>
-        <meta name="author" content="Sebastian Franco Brantes UTFSM - ¿y por qué no? - seb.frab@gmail.com"/>
+        <meta name="author" content="Sebastian Franco Brantes UTFSM - Â¿y por quÃ© no? - seb.frab@gmail.com"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta name="Keywords" content="cerveza, artesanal, andinez, cerveceria, valparaiso, playa ancha"/>
         <meta name="description" content="Cerveceria Andinez" />
@@ -10,7 +11,7 @@
         
         <!-- Bootstrap 3.0 -->
         <link rel="stylesheet" type="text/css" href="./css/bootstrap.css" />
-        <!-- Normalización para Web -->
+        <!-- NormalizaciÃ³n para Web -->
         <link rel="stylesheet" type="text/css" href="./css/normalize.css" />
         <!-- Css Web -->
         <link rel="stylesheet" type="text/css" href="./css/init.css" />
@@ -19,7 +20,7 @@
         <!-- Add fancyBox -->
         <link rel="stylesheet" href="./js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
         
-        <title>Andinez - pasión y amistad</title>
+        <title>Andinez - pasiÃ³n y amistad</title>
     </head>
     
     <body>
@@ -55,9 +56,9 @@
                             </div>
                             <div class="navbar-collapse bs-js-navbar-collapse collapse"> 
                                 <ul class="menu nav navbar-nav navbar-right">
-                                    <li><a href="./#quienesSomos"><b>QUIENES SOMOS</b> <span><br/>Ni nosotros los sabemos</span> </a></li>
+                                    <li><a href="./#quienesSomos"><b>QUIENES SOMOS</b> <span><br/>Historia</span> </a></li>
                                     <li><a href="./#cervezas"><b>CERVEZAS</b> <span><br/>Nuestra variedad</span> </a></li>
-                                    <li><a href="./#dondeComprar"><b>¿DÓNDE COMPRAR?</b> <span><br/>Ubicación</span> </a></li>
+                                    <li><a href="./#dondeComprar"><b>Â¿DÃ“NDE COMPRAR?</b> <span><br/>UbicaciÃ³n</span> </a></li>
                                     <li><a href="./#contacto"><b>CONTACTO</b> <span><br/>@Email</span> </a></li>
                                 </ul>                                
                             </div>
@@ -75,8 +76,8 @@
                         <div class="row">
                             <div class="col-lg-3 col-md-2 col-sm-2"></div>
                             <div class="col-lg-6 col-md-8 col-sm-8">
-                                <a href="./" class="thumbnail" title="Andinez - pasión y amistad">
-                                    <img src="./images/logoNegro.jpg"  alt="Andinez - pasión y amistad"/>
+                                <a href="./" class="thumbnail" title="Andinez - pasiÃ³n y amistad">
+                                    <img src="./images/logoNegro.jpg"  alt="Andinez - pasiÃ³n y amistad"/>
                                 </a>
                             </div>
                             <div class="col-lg-3 col-md-2 col-sm-2"></div>
@@ -97,15 +98,15 @@
                             <h3>SOMOS</h3>
                             <p id="separacion"></p>
                             <p>
-                                La historia de Andinez habla de la búsqueda de 
-                                lo natural de la pasión y la amistad. Un destino 
+                                La historia de Andinez habla de la bÃºsqueda de 
+                                lo natural de la pasiÃ³n y la amistad. Un destino 
                                 que siempre estuvo impreso, grabado en el alma 
-                                de su  creador.<br/>
+                                de su  creador. 
                                 Es por esto que  luego de un largo proceso de 
                                 aprendizaje se llega a un producto realmente 
                                 natural, sin perder su esencia de  sabor y aroma, 
-                                de esto ya han pasado 7 años en los cuales 
-                                nuestros pequeños pero muy apreciados 
+                                de esto ya han pasado 7 aÃ±os en los cuales 
+                                nuestros pequeÃ±os pero muy apreciados 
                                 clientes nos prefieren.
                             </p>
                         </div>
@@ -113,7 +114,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <a class="fancybox" href="./images/cerveza2.jpg" >
                                 <span id="quienesRoll"  class="roll" ></span>
-                                <img id="quienes" style="box-shadow: 10px 10px 5px #888888;" class="img-responsive" src="./images/cerveza2.jpg" alt="Andinez - pasión y amistad" />
+                                <img id="quienes" style="box-shadow: 10px 10px 5px #888888;" class="img-responsive" src="./images/cerveza2.jpg" alt="Andinez - pasiÃ³n y amistad" />
                             </a>
                         </div>
                     </div>
@@ -134,31 +135,30 @@
                                 <p>
                                     Estos estilos fueron hechos minuciosamente, 
                                     con recetas y procesos realizados por las 
-                                    grandes Cervecerías caseras. Dedicación y 
+                                    grandes CervecerÃ­as caseras. DedicaciÃ³n y 
                                     exclusividad son el valor agregado de un 
                                     estilo propio y un producto final de calidad. 
                                     ANDINEZ Es elaborada bajo la ley de la pureza, 
                                     solo contiene agua purificada, cebada,  
-                                    lúpulo y levadura.
+                                    lÃºpulo y levadura.
                                     <br/><br/>
 
-                                    La Ley de la pureza (Reinheitsgebot en alemán) 
+                                    La Ley de la pureza (Reinheitsgebot en alemÃ¡n) 
                                     fue decretada el 23 de abril de 1516 por 
-                                    Guillermo IV de Baviera. Se establecía que 
-                                    la cerveza solamente se debía elaborar a partir 
+                                    Guillermo IV de Baviera. Se establecÃ­a que 
+                                    la cerveza solamente se debÃ­a elaborar a partir 
                                     de 3 ingredientes: agua, malta de cebada y 
-                                    lúpulo. Se cree que fue la primera regulación 
+                                    lÃºpulo. Se cree que fue la primera regulaciÃ³n 
                                     legal de un alimento. La ley no menciona la 
                                     levadura, que fue descubierta en 1880 por 
                                     Luis Pasteur como parte del proceso de 
-                                    fermentación de la cerveza.
+                                    fermentaciÃ³n de la cerveza.
                                 </p>
                                 
                                 <ul>
                                     <li>Ambar Ale</li>
                                     <li>Oatmeal Stout</li>
                                     <li>Golden Ale</li>
-                                    
                                     <li>Robust Porter</li>
                                     <li>Scotch Ale "Ahumada"</li>
                                 </ul>
@@ -204,12 +204,12 @@
                         <div class="col-lg-4 col-md-4 col-sm-3"></div>
                         
                         <div class="col-lg-4 col-md-4 col-sm-6">
-                            <h2 style="text-align: center">¿DÓNDE</h2>
+                            <h2 style="text-align: center">Â¿DÃ“NDE</h2>
                             <h3 style="text-align: center">COMPRAR?</h3>
                             <p id="separacion"></p>
                             <p style="text-align: center">
                                 Aun no tenemos proveedor de nuestros productos.<br/>
-                                ¿Quieres ser el primero?
+                                Â¿Quieres ser el primero?
                             </p>
 
                                 <a href="./#contacto" class="btn btn-inverse btn-lg center-block">
@@ -235,7 +235,7 @@
                                 <p id="separacion_white"></p>
                                 <p>
                                     Email : andinez2011@hotmail.com<br/>
-                                    Fono : +569 814889050<br/>
+                                    Fono : +569 81499050<br/>
                                     Buscanos en : facebook.com/Cerveza Andinez<br/>
                                 </p>
                         </div>
@@ -278,7 +278,7 @@
                                 <p id="separacion_white"></p>
                                 <p>
                                     Email : andinez2011@hotmail.com<br/>
-                                    Fono : +569 814889050<br/>
+                                    Fono : +569 81499050<br/>
                                     Buscanos en : facebook.com/Cerveza Andinez<br/>
                                 </p>
                         </div>
