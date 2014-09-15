@@ -163,7 +163,7 @@
                                     legal de un alimento. La ley no menciona la 
                                     levadura, que fue descubierta en 1880 por 
                                     Luis Pasteur como parte del proceso de 
-                                    fermentación de la cerveza. <a target="_blank" style="color:#d4ba94;" href="./document./Catalogo.pdf">Ver Catálogo</a>
+                                    fermentación de la cerveza. <a target="_blank" style="color:#d4ba94;" href="/document/Catalogo.pdf">Ver Catálogo</a>
                                 </p>
                                 
                                 <ul>
